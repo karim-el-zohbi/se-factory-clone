@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{font-family: Noto Sans Mono, sans-serif !important;}
 .se-factory-body {
   margin: 0;
   min-height: 100%;
@@ -77,7 +80,6 @@
 }
 
 .hero-left-header {
-  font-family: sans-serif;
   font-size: 24px;
   background-color: #373737;
   color: white;
@@ -86,13 +88,11 @@
   line-height: 2.5;
 }
 .hero-left-q {
-  font-family: sans-serif;
   font-size: 36px;
   color: white;
   font-weight: 900;
 }
 .hero-left-p {
-  font-family: sans-serif;
   font-size: 20px;
   color: rgb(0, 0, 0);
   margin-top: 40px;
@@ -100,7 +100,6 @@
   line-height: 1.5;
 }
 .hero-left-hashtag {
-  font-family: sans-serif;
   font-size: 20px;
   background-color: #373737;
   color: white;
@@ -128,7 +127,6 @@
   text-align: left;
 }
 .hero-right-header {
-  font-family: sans-serif;
   font-size: 24px;
   background-color: white;
   color: #373737;
@@ -138,20 +136,17 @@
 }
 .hero-right-q {
   color: white;
-  font-family: sans-serif;
   font-size: 36px;
   font-weight: 900;
 }
 .hero-right-p {
   color: white;
   font-size: 20px;
-  font-family: sans-serif;
   margin-top: 10px;
   margin-bottom: 43px;
   line-height: 1.5;
 }
 .hero-right-hashtag {
-  font-family: sans-serif;
   font-size: 20px;
   background-color: white;
   color: #373737;
